@@ -1,5 +1,3 @@
-yaml
-
 #config
 
 title: Student Investment Analyst Handbook
@@ -21,4 +19,10 @@ just_the_docs:
       nav_fold: true
     portfolio-management:
       name: Portfolio Management
+      nav_fold: true
+    excel-projects:
+      name: Excel Projects
+      nav-fold: true
+    python-projects:
+      name: Python Projects
       nav_fold: true
