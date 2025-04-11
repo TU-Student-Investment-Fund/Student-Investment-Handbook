@@ -1,0 +1,24 @@
+yaml
+
+#config
+
+title: Student Investment Analyst Handbook
+theme: just-the-docs
+
+# Enable local navigation
+just_the_docs:
+  logo: "/assets/logo.png" # optional
+  aux_links:
+    "GitHub Repo":
+      - "https://TU-Student-Investment-Fund/Student-Investment-Handbook"
+  search_enabled: true
+  collections:
+    equity:
+      name: Equity Research
+      nav_fold: true
+    fixed-income:
+      name: Fixed Income
+      nav_fold: true
+    portfolio-management:
+      name: Portfolio Management
+      nav_fold: true
