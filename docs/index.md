@@ -8,7 +8,7 @@ Finance is a broad field with many areas of specialization. The handbook will be
 - [Equity Research](equity/)
 - [Fixed Income](fixed-income/)
 - [Portfolio Management](portfolio-management/)
-- [Excel Projects](research-projects/)
+- [Excel Projects](excel-projects/)
 - [Research Templates](research-templates/)
 - [Python Projects](python-projects/)
 
